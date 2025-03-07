@@ -1,10 +1,30 @@
 import AnimatedLogo from "@/components/animated-logo"
-import Footer from "@/components/footer"
+import AnimatedHeading from "@/components/animated-heading"
+import VerticalText from "@/components/vertical-text"
 import AboutSection from "@/components/about-section"
 import ServicesSection from "@/components/services-section"
 import ContactSection from "@/components/contact-section"
-import VerticalText from "@/components/vertical-text"
-import AnimatedHeading from "@/components/animated-heading"
+import Footer from "@/components/footer"
+
+export const metadata = {
+  title: "Gamila | Web Developer",
+  description: "Crafting seamless web experiences with a touch of creativity.",
+  keywords: ["Web Developer", "Frontend", "SEO", "Gamila", "React", "Next.js"],
+  robots: "index, follow",
+  openGraph: {
+    title: "Gamila | Web Developer",
+    description: "Crafting seamless web experiences with a touch of creativity.",
+    url: "https://gamila-website.vercel.app/",
+    images: [
+      {
+        url: "/meta-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Gamila Portfolio",
+      },
+    ],
+  },
+};
 
 export default function Home() {
   return (
@@ -29,4 +49,3 @@ export default function Home() {
     </main>
   )
 }
-
