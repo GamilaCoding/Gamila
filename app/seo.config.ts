@@ -1,10 +1,10 @@
 const SEO = {
   title: "Gamila | Frontend Web Developer with SEO Expertise",
-  description: "Crafting seamless web experiences with SEO best practices to boost your online presence.",
+  description: "Bringing your vision in life with modern web design and SEO optimization. Fast, responsive, and SEO-friendly websites tailored to your business needs. Let's create something extraordinary!",
   keywords: "Frontend Web Developer, SEO, React, Next.js, Web Design",
   openGraph: {
-    title: "Gamila | Web Developer",
-    description: "Crafting seamless web experiences with SEO best practices to boost your online presence.",
+    title: "Gamila | Frontend Web Developer with SEO Expertise",
+    description: "Bringing your vision in life with modern web design and SEO optimization. Fast, responsive, and SEO-friendly websites tailored to your business needs. Let's create something extraordinary!",
     url: "https://gamila-one.vercel.app/",
     type: "website",
   }
