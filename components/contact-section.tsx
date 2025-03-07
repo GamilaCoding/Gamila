@@ -53,7 +53,7 @@ export default function ContactSection() {
               <Mail className="w-6 h-6 text-blue-600 mt-1" />
               <div>
                 <h4 className="text-lg font-medium text-gray-800">Email</h4>
-                <p className="text-gray-600">contact@gamila.dev</p>
+                <p className="text-gray-600">GamilaElQossery@outlook.sa</p>
               </div>
             </div>
 
@@ -61,7 +61,7 @@ export default function ContactSection() {
               <Phone className="w-6 h-6 text-teal-600 mt-1" />
               <div>
                 <h4 className="text-lg font-medium text-gray-800">Phone</h4>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+1 (000) 000-0000</p>
               </div>
             </div>
 
@@ -69,7 +69,7 @@ export default function ContactSection() {
               <MapPin className="w-6 h-6 text-blue-600 mt-1" />
               <div>
                 <h4 className="text-lg font-medium text-gray-800">Location</h4>
-                <p className="text-gray-600">San Francisco, CA</p>
+                <p className="text-gray-600">Egypt, CA</p>
               </div>
             </div>
 
