@@ -9,7 +9,7 @@ import { useState } from "react"
 const reviews = [
   {
     id: 1,
-    name: "Khaled Ghaly",
+    name: "",
     position: "client",
     company: "شركة الأفق للتكنولوجيا",
     rating: 5,
@@ -43,7 +43,7 @@ export default function ReviewsSection() {
   }
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section id="reviews" className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <motion.div
           className="text-center mb-16"
@@ -52,7 +52,7 @@ export default function ReviewsSection() {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl md:text-4xl font-serif mb-4 text-gray-800">Client Reviews</h2>
+          <h2 className="text-3xl md:text-4xl font-serif mb-4 text-gray-800">آراء العملاء</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             نفخر بثقة عملائنا ونسعى دائمًا لتقديم أفضل الخدمات التي تلبي توقعاتهم وتتجاوزها
           </p>
