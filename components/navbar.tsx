@@ -49,6 +49,24 @@ export default function Navbar() {
         <Link href="/projects" className="text-gray-600 hover:text-gray-900 transition-colors">
           <AnimatedText delay={0.2}>Projects</AnimatedText>
         </Link>
+
+
+
+ {isHomePage ? (
+          <a
+            href="#reviews"
+            onClick={(e) => handleScroll(e, "reviews")}
+            className="text-gray-600 hover:text-gray-900 transition-colors"
+          >
+            <AnimatedText delay={0.25}>Reviews</AnimatedText>
+          </a>
+        ) : (
+          <Link href="/#reviews" className="text-gray-600 hover:text-gray-900 transition-colors">
+            <AnimatedText delay={0.25}>Reviews</AnimatedText>
+          </Link>
+        )}
+
+        
         {isHomePage ? (
           <a
             href="#contact"
