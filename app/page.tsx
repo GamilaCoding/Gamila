@@ -4,6 +4,7 @@ import VerticalText from "@/components/vertical-text"
 import AboutSection from "@/components/about-section"
 import ServicesSection from "@/components/services-section"
 import ContactSection from "@/components/contact-section"
+import ReviewsSection from "@/components/reviews-section"
 import Footer from "@/components/footer"
 
 export const metadata = {
@@ -44,6 +45,7 @@ export default function Home() {
       {/* Other Sections */}
       <AboutSection />
       <ServicesSection />
+      <ReviewsSection />
       <ContactSection />
       <Footer />
     </main>
