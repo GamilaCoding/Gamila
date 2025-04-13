@@ -8,12 +8,12 @@ import { Description } from "@radix-ui/react-toast"
 
 const projects = [
   {
-    title: "Sataer - Curtains E-commerce",
+    title: "Nike E-commerce",
     category: "Frontend Developer",
     description:
       "A specialized e-commerce platform for curtains, featuring a bilingual interface and mobile-responsive design",
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1-T5m6uk1RYRiocCgvZjPvEg6i8UZTNA.png",
-    link: "https://curtains-website.vercel.app/",
+    image: "https://imgur.com/a/BgMaVRp",
+    link: "https://nike-store-silk-mu.vercel.app",
   },
   {
     title: "Motkamel - E-commerce Platform",
