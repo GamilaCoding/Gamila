@@ -11,7 +11,7 @@ const projects = [
     title: "Nike E-commerce",
     category: "Frontend Developer",
     description:
-      "A specialized e-commerce platform for curtains, featuring a bilingual interface and mobile-responsive design",
+      "A specialized e-commerce platform for Nike store, featuring a bilingual interface and mobile-responsive design",
     image: "https://imgur.com/a/BgMaVRp",
     link: "https://nike-store-silk-mu.vercel.app",
   },
