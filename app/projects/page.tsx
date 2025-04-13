@@ -20,7 +20,7 @@ const projects = [
     category: "Full Stack Development",
     description: "A comprehensive e-commerce solution with advanced features and mobile-first approach Tech Used: React.js, CSS, JavaScript, Bootstrap, Mateiral MUI ",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2-51eE6SSKpac20uD3jcjzsF2amtVo8A.png",
-    link: "https://www.linkedin.com/in/gamila-elqossery/",
+    link: "https://www.motkaml.com/home",
   },
   {
     title: "WASILA website",
