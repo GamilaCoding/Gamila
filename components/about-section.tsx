@@ -15,9 +15,8 @@ export default function AboutSection() {
         >
           <h2 className="text-3xl md:text-4xl font-serif mb-8 text-gray-800">About GAMILA</h2>
           <p className="text-lg text-gray-600 mb-6">
-            GAMILA is a passionate developer specializing in creating elegant, functional digital experiences. With
-            expertise in modern web technologies and a keen eye for design, GAMILA transforms ideas into beautiful,
-            interactive applications.
+           a dedicated developer with a focus on producing sophisticated, useful digital experiences. Ideas are turned into stunning, interactive applications by someone with a strong sense of design and knowledge of contemporary web technology.
+Every project is tackled with originality, accuracy, and a dedication to quality, guaranteeing that every solution not only satisfies but surpasses expectations.
           </p>
           <p className="text-lg text-gray-600 mb-10">
             Every project is approached with creativity, precision, and a commitment to excellence, ensuring that each
