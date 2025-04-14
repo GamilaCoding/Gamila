@@ -30,6 +30,14 @@ const projects = [
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pink%20minimal%20new%20website%20instagram%20post-8l0pEwbKORV8fbJ6pDRbAZxbg3QkCq.png",
     link: "https://wasila.vercel.app/",
   },
+    {
+    title: "Travel website",
+    category: "Frontend Developer",
+    description:
+      "Deploy website for travelling, featuring a bilingual interface and mobile-responsive design",
+    image: "https://i.imgur.com/WBAbIR4.png",
+    link: "https://travel-reactjs-two.vercel.app",
+  },
 ]
 
 export default function ProjectsPage() {
