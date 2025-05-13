@@ -13,7 +13,7 @@ const reviews = [
     position: "client",
     company: " Website",
     rating: 5,
-    text: "خدمة على أعلى مستوى من الاحترافية. الباشمهندسه جميلة شخصية راقية، صبورة جدًا، وتعاونها فوق الممتاز. قدمت تعديلات دقيقة ومميزة للتطبيق بلمسة إبداعية. أنصح كل بالتعامل معها، لأنها تستحق الثقة بجدارة. وبكل تأكيد، هيكون لي تعاملات مستقبلية كتيرة معاها! بجد، شكرًا على المجهود الرائع والإتقان! 🌟",
+    text: "Exceptional service with the highest level of professionalism. Eng.Gamila is a refined and incredibly patient person, and her collaboration was beyond excellent. She delivered precise and creative improvements to the application with an artistic touch. I highly recommend working with her — she truly earns trust with ease. Without a doubt, I’ll be working with her again on many future projects. Truly grateful for the outstanding effort and attention to detail! 🌟",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
