@@ -8,6 +8,13 @@ import { Description } from "@radix-ui/react-toast"
 
 const projects = [
   {
+    title: "SaaS ai",
+    category: "SaaS Dashboard",
+    description: "",
+    image: "",
+    link: "",
+  },
+  {
     title: "Nike E-commerce",
     category: "Frontend Developer",
     description:
