@@ -15,7 +15,7 @@ export default function Navbar() {
     e.preventDefault()
     const element = document.getElementById(id)
     if (element) {
-      const yOffset = -80 // تعديل هذه القيمة بناءً على ارتفاع شريط التنقل
+      const yOffset = -80 
       const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset
       window.scrollTo({ top: y, behavior: "smooth" })
     }
