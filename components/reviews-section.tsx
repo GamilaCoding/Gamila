@@ -27,9 +27,9 @@ const reviews = [
   },
   {
     id: 3,
-    name: "محمد العلي",
-    position: "صاحب مشروع",
-    company: "متجر إلكتروني",
+    name: "Mohamed el haly",
+    position: "Owner farmer co",
+    company: "CMS system",
     rating: 4,
     text: "The GAMILA team helped me launch my online store with an eye-catching design and a user-friendly interface. The results were impressive, and the technical support was outstanding.",
     image: "/placeholder.svg?height=100&width=100",
@@ -61,9 +61,9 @@ export default function ReviewsSection() {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl md:text-4xl font-serif mb-4 text-gray-800">آراء العملاء</h2>
+          <h2 className="text-3xl md:text-4xl font-serif mb-4 text-gray-800"> Reviews</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            نفخر بثقة عملائنا ونسعى دائمًا لتقديم أفضل الخدمات التي تلبي توقعاتهم وتتجاوزها
+I’m proud of the trust my clients place in me, and I always strive to deliver services that meet — and exceed — their expectations.
           </p>
         </motion.div>
 
