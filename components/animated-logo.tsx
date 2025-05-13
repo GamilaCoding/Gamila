@@ -44,7 +44,7 @@ export default function AnimatedLogo() {
         <div className="w-full h-full relative">
           <div className="absolute inset-0 rounded-full overflow-hidden">
             <Image
-              src="https://i.imgur.com/vjNufGK.png"
+              src="https://imgur.com/a/xAKdRVm"
               alt="GAMILA Developer Logo"
               fill
               className="object-cover rounded-full"
