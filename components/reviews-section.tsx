@@ -20,9 +20,9 @@ const reviews = [
     id: 1,
     name: "Sara Qasam",
     position: "client",
-    company: "شركة للتكنولوجيا",
+    company: "technology co ",
     rating: 5,
-    text: "خدمة ممتازة و امانه وسرعه في الإنجاز  و أنصح كل بالتعامل معها وبكل تأكيد، هيكون لي تعاملات مستقبلية كتيرة معاها! 🌟",
+    text: "Excellent service, with honesty and fast delivery. I highly recommend working with her, and without a doubt, I’ll be collaborating with her on many future projects! 🌟",
     image: "/placeholder.svg?height=100&width=100",
   },
   {
@@ -31,7 +31,7 @@ const reviews = [
     position: "صاحب مشروع",
     company: "متجر إلكتروني",
     rating: 4,
-    text: "ساعدني فريق GAMILA في إطلاق متجري الإلكتروني بتصميم جذاب وواجهة سهلة الاستخدام. النتائج كانت مبهرة والدعم الفني ممتاز.",
+    text: "The GAMILA team helped me launch my online store with an eye-catching design and a user-friendly interface. The results were impressive, and the technical support was outstanding.",
     image: "/placeholder.svg?height=100&width=100",
   },
 ]
