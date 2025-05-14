@@ -11,7 +11,7 @@ const projects = [
     title: "SaaS ai",
     category: "SaaS Dashboard",
     description: "",
-    image: "",
+    image: "https://i.imgur.com/2jSQ1Tl.png",
     link: "",
   },
   {
