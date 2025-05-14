@@ -7,13 +7,13 @@ import { describe } from "node:test"
 import { Description } from "@radix-ui/react-toast"
 
 const projects = [
-  {
-    title: "SaaS ai",
-    category: "SaaS Dashboard",
-    description: "Coming Soon",
-    image: "https://i.imgur.com/2jSQ1Tl.png",
-    link: "",
-  },
+  // {
+  //   title: "SaaS ai",
+  //   category: "SaaS Dashboard",
+  //   description: "Coming Soon",
+  //   image: "",
+  //   link: "",
+  // },
   {
     title: "Nike E-commerce",
     category: "Frontend Developer",
