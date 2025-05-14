@@ -10,7 +10,7 @@ const projects = [
   {
     title: "SaaS ai",
     category: "SaaS Dashboard",
-    description: "",
+    description: "Coming Soon",
     image: "https://i.imgur.com/2jSQ1Tl.png",
     link: "",
   },
