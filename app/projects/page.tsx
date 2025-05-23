@@ -37,6 +37,16 @@ const projects = [
     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pink%20minimal%20new%20website%20instagram%20post-8l0pEwbKORV8fbJ6pDRbAZxbg3QkCq.png",
     link: "https://wasila.vercel.app/",
   },
+  
+   {
+    title: "Dashboard Admin",
+    category: "React.js Developer",
+    description:
+     "A responsive admin dashboard built with React.js, including charts, graphs, and a user-friendly interface.",
+    image: "https://i.imgur.com/87PKsXk.png",
+    link: "https://react-admin-dashbord-liart.vercel.app/",
+  },
+  
     {
     title: "Travel website",
     category: "Frontend Developer",
