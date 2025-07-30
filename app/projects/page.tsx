@@ -7,13 +7,29 @@ import { describe } from "node:test"
 import { Description } from "@radix-ui/react-toast"
 
 const projects = [
-  // {
-  //   title: "SaaS ai",
-  //   category: "SaaS Dashboard",
-  //   description: "Coming Soon",
-  //   image: "",
-  //   link: "",
-  // },
+  {
+    title: "SurveyLand | Team Project",
+    category: "SaaS Dashboard",
+    description: " SurveyLand is a fully functional survey platform built with Next.js and Tailwind CSS. It allows users to sign up, create custom surveys, and track responses in real-time.
+
+This project was developed in collaboration with a team, focusing on delivering a seamless user experience, clean interface, and strong API integration.
+
+🔹 My Contributions:
+
+Developed the frontend using Next.js and Tailwind CSS
+
+Built reusable UI components and forms with React Hook Form
+
+Handled state management with Zustand
+
+Ensured responsive design and accessibility
+
+Coordinated with the team using Git & GitHub
+
+🛠 Tech Stack: Next.js, Tailwind CSS, React Hook Form, Zustand, Headless UI, Vercel",
+    image: "",
+    link: "https://surveyland.vercel.app/",
+  },
   {
     title: "Nike E-commerce",
     category: "Frontend Developer",
