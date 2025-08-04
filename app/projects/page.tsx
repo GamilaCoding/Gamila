@@ -11,7 +11,7 @@ const projects = [
     title: "SurveyLand | Team Project",
     category: "SaaS Dashboard",
     description: " A collaborative web app for creating and sharing surveys with real-time response tracking. Built using Next.js and Tailwind CSS, with full user authentication and clean, responsive UI.Frontend development, UI components, form logic, state management, and team coordination. Tech Stack: Next.js, Tailwind CSS, Zustand, React Hook Form, Vercel",
-    image: "",
+    image: "https://i.postimg.cc/RZ7Cxg6s/Screenshot-from-2025-08-04-21-13-51.png",
     link: "https://surveyland.vercel.app/",
   },
   {
